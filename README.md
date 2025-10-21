@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @aswego123
-- 👀 I’m interested in learning new things like iot, blockchain, cloud computing.
-- 🌱 I’m currently learning cloud architecture and azure fundamentals.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello I’m @aswego123
+- 👀 I’m interested in learning things on ai and machine learning
+- ⌨ The primary coding language i use is python
 
 <!---
 aswego123/aswego123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
