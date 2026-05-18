@@ -1,10 +1,12 @@
-- Hello I’m @aswego123 👋
-- ⌨ coding language: core lang is python 🐍 but i can code in literally everything with vibe coding 🍺
-- Lately i have been working on everything ai and agentic ai 🍺
-- MCPs are cool 🍺
-- My hobbies: Reading travelling exploring new places new things and partyinh 🍺
-- Background: completed BTech in ECE from ShivNadar University and currently pursuing Diploma in Data Science from IIT Madras India
-- With Love from Bangalore India
+- Hello I’m Anjali @aswego123 👋
+- AI/ML Engineer · LTTS · IIT Madras DS · MCP / RAG / LangGraph
+- ⌨ Coding language: core lang are python 🐍 and Java 🍺
+- Lately i have been working on everything ai and Agentic ai 🍺
+- Hate MCPs 🍺
+- Hobbies: Reading travelling exploring new places new things and partying 🍺
+- Background: BTech in ECE from ShivNadar University and Diploma in Data Science from IIT Madras
+- With Love from India
+
 
 <!---
 aswego123/aswego123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
