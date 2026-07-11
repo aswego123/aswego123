@@ -2,7 +2,6 @@
 - AI/ML Engineer · LTTS · IIT Madras DS · MCP / RAG / LangGraph
 - ⌨ Coding language: core lang are python 🐍 and Java 🍺
 - Lately i have been working on everything ai and Agentic ai 🍺
-- Hate MCPs 🍺
 - Hobbies: Reading travelling exploring new places new things and partying 🍺
 - Background: BTech in ECE from ShivNadar University and Diploma in Data Science from IIT Madras
 - With Love from India
