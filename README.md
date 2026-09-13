@@ -1,5 +1,5 @@
-- Hello I’m Anjali @aswego123 diploma in DS from IIT MADRAS INDIA 👋
-- AI/ML Engineer · LTTS · IIT Madras DS · MCP / RAG / LangGraph
+- Hello I’m @aswego123 diploma in DS from IIT MADRAS INDIA 👋
+- AI/ML Engineer · IIT Madras DS · MCP / RAG / LangGraph
 - ⌨ Coding language: core lang are python 🐍 and Java 🍺
 - Lately i have been working on everything ai and Agentic ai 🍺
 - Hobbies: Reading travelling exploring new places new things and partying 🍺
